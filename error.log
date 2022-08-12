@@ -1,0 +1,160 @@
+
+2022-08-11 13:25:32,427 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:28:42,717 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:35:53,395 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:36:16,095 INFO: errors [in app.py:553]
+2022-08-11 13:36:40,716 INFO: errors [in app.py:553]
+2022-08-11 13:36:53,453 INFO: errors [in app.py:553]
+2022-08-11 13:37:39,209 INFO: errors [in app.py:553]
+2022-08-11 13:37:49,807 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:38:46,291 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:40:15,701 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:40:30,564 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:43:05,293 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:43:08,427 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:46:17,291 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:46:27,960 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:54:43,629 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:55:08,679 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:55:15,449 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:57:12,738 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:57:29,050 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 13:59:53,911 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:00:03,390 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:01:24,599 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:01:32,427 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:01:40,176 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:05:48,258 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:06:02,233 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:06:26,729 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:06:41,784 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:07:12,367 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:07:17,758 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:553]
+2022-08-11 14:40:36,205 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
+2022-08-11 16:33:46,604 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:543]
+2022-08-11 16:33:54,831 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:543]
+2022-08-11 16:49:57,119 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 16:50:03,683 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 16:53:38,966 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 16:53:50,101 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 16:57:33,746 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 16:57:42,748 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:544]
+2022-08-11 17:00:26,570 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:546]
+2022-08-11 17:00:36,389 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:546]
+2022-08-11 17:00:53,981 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:546]
+2022-08-11 17:01:10,066 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:546]
+2022-08-11 18:05:03,404 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:582]
+2022-08-11 18:05:19,004 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:582]
+2022-08-11 18:09:52,640 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:582]
+2022-08-11 18:13:45,963 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:13:53,938 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:14:29,781 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:15:46,625 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:16:11,992 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:16:20,476 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:18:28,503 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:18:33,410 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:18:42,815 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:18:49,051 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:29:08,211 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:29:12,201 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:584]
+2022-08-11 18:47:19,059 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:589]
+2022-08-11 18:48:50,649 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:588]
+2022-08-11 19:57:45,726 INFO: errors [in app.py:595]
+2022-08-11 20:44:00,604 INFO: errors [in app.py:595]
+2022-08-11 20:44:10,335 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+    if form.validate_on_submit():
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:44:20,558 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+    if form.validate_on_submit():
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:44:56,036 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+    if form.validate_on_submit():
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:45:08,029 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:46:14,673 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:46:31,862 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-11 20:46:34,652 ERROR: Exception on /venues/create [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 298, in create_venue_form
+AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
+2022-08-12 05:35:44,255 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:640]
+2022-08-12 14:51:07,228 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:683]
+2022-08-12 14:51:16,473 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:683]
+2022-08-12 15:02:36,281 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
+2022-08-12 15:02:40,597 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:703]
+2022-08-12 19:04:29,228 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:653]
+2022-08-12 20:31:38,446 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
+2022-08-12 20:31:50,009 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
+2022-08-12 20:39:39,002 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:538]
