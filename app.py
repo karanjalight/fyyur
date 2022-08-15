@@ -25,7 +25,10 @@ db = SQLAlchemy(app) """
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres@localhost:5432/music'
 app.config['SQLALCHEMY_TRACT_MODIFICATIONS']= False
-db = SQLAlchemy(app)
+
+
+from models import db, Venue , Artist, Show, Genre   #this part imports the models.py file
+
 
 
 # Migrations.
@@ -35,94 +38,7 @@ migrate = Migrate(app, db)
 
 # TODO: connected.
 
-#----------------------------------------------------------------------------#
-# Models.
-#----------------------------------------------------------------------------#
 
-class Venue(db.Model):
-    __tablename__ = 'venue'
-
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String)
-    city = db.Column(db.String(120))
-    state = db.Column(db.String(120))
-    address = db.Column(db.String(120))
-    phone = db.Column(db.String(120))
-    genre = db.Column(db.String(1000))
-    facebook_link = db.Column(db.String(120))
-    image_link = db.Column(db.String(500))
-    website_link = db.Column(db.String(120))
-    looking_for_talent = db.Column(db.Boolean , default = False)
-    seeking_description = db.Column(db.String(300))
-
-    shows = db.relationship('Show', backref = 'venue', lazy=True) #this is the relationship address to the shows module
-    genres = db.relationship('Genre', backref = 'venue', lazy=True) #this is the relationship address to the Genre module
-
-
-    def __repr__(self):
-      return f'<Venues {self.id} {self.name}>'
-
-    
-
-
-    # TODO: implement any missing fields -----DONE ----,
-
-class Artist(db.Model):
-    __tablename__ = 'artist'
-
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String)
-    city = db.Column(db.String(120))
-    state = db.Column(db.String(120))
-    phone = db.Column(db.String(120))
-    genre = db.Column(db.String(120))    
-    facebook_link = db.Column(db.String(120))
-    image_link = db.Column(db.String(500))
-    website_link = db.Column(db.String(120))
-    looking_for_venues = db.Column(db.Boolean , default = False)
-    seeking_description = db.Column(db.String(300))
-    
-    shows = db.relationship('Show', backref = 'artist', lazy=True) #this is the relationship address to the shows module
-    genres = db.relationship('Genre', backref = 'artist', lazy=True) #this is the relationship address to the Genre module
-
-    def __repr__(self):
-      return f'<Artists {self.id} {self.name}>'
-
-class Show(db.Model):
-  __tablename__ = 'show'
-
-  id = db.Column(db.Integer, primary_key=True)
-  venues_id = db.Column(db.Integer, db.ForeignKey('venue.id'), nullable=False)  #this creates a foreign key with the venues table
-  artist_id = db.Column(db.Integer, db.ForeignKey('artist.id'), nullable=False)  #this creates a foreign key with the venues table
-  start_time = db.Column(db.DateTime)
-
-  def __repr__(self):
-
-    return f'<Show {self.id} >'
-
-
-
-#----according to the list entry we have to entre a new table for the multiple genres----------
-
-class Genre(db.Model):
-   __tablename__ = 'genre'
-
-   id = db.Column(db.Integer, primary_key=True)
-   genre =  db.Column(db.String(200))
-   venues_id = db.Column(db.Integer, db.ForeignKey('venue.id'), nullable=False)  #this creates a foreign key with the venues table
-   artist_id = db.Column(db.Integer, db.ForeignKey('artist.id'), nullable=False)  #this creates a foreign key with the venues table
-   def __repr__(self):
-
-    return f'<genre {self.id} >' 
-
-
-
-
-    # TODO: implement any missing fields, as a database migration using Flask-Migrate
-    # ----------------------------------------------------------------------------------------------------------- DONE---------------
-
-# TODO Implement Show and Artist models, and complete all model relationships and properties, as a database migration.
-# ----------- DONE---------------
 
 #----------------------------------------------------------------------------#
 # Filters.

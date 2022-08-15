@@ -158,3 +158,128 @@ AttributeError: 'VenueForm' object has no attribute 'validate_on_submit'
 2022-08-12 20:31:38,446 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
 2022-08-12 20:31:50,009 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:560]
 2022-08-12 20:39:39,002 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:538]
+2022-08-15 12:26:20,334 INFO: errors [in app.py:558]
+2022-08-15 12:33:36,839 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:559]
+2022-08-15 12:34:33,626 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:559]
+2022-08-15 12:57:40,348 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:472]
+2022-08-15 12:57:54,231 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:472]
+2022-08-15 13:08:17,817 INFO: errors [in app.py:474]
+2022-08-15 13:08:58,917 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+    data = Venue.query.all()
+NameError: name 'Venue' is not defined
+2022-08-15 13:09:01,537 ERROR: Exception on /artists [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 204, in artists
+    data= Artist.query.all()
+NameError: name 'Artist' is not defined
+2022-08-15 13:09:03,612 ERROR: Exception on /shows [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 375, in shows
+    data = Show.query.all()
+NameError: name 'Show' is not defined
+2022-08-15 13:09:41,598 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+    data = Venue.query.all()
+NameError: name 'Venue' is not defined
+2022-08-15 13:09:46,558 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+    data = Venue.query.all()
+NameError: name 'Venue' is not defined
+2022-08-15 13:10:24,590 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+NameError: name 'Venue' is not defined
+2022-08-15 13:11:14,970 INFO: errors [in app.py:474]
+2022-08-15 13:11:18,011 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+    data = Venue.query.all()
+NameError: name 'Venue' is not defined
+2022-08-15 13:19:00,085 INFO: errors [in app.py:474]
+2022-08-15 13:19:17,881 ERROR: Exception on /venues [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 77, in venues
+    data = Venue.query.all()
+NameError: name 'Venue' is not defined
+2022-08-15 13:25:45,775 INFO: errors [in app.py:474]
+2022-08-15 13:26:19,872 ERROR: Exception on /artists [GET] [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py:1741]
+Traceback (most recent call last):
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/venv/lib/python3.8/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "app.py", line 204, in artists
+    data= Artist.query.all()
+NameError: name 'Artist' is not defined
