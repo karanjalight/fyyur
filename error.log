@@ -283,3 +283,13 @@ Traceback (most recent call last):
   File "app.py", line 204, in artists
     data= Artist.query.all()
 NameError: name 'Artist' is not defined
+2022-08-15 23:31:50,293 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:31:57,156 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:33:27,492 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:34:15,517 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:34:22,973 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:48:32,502 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:48:35,414 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:466]
+2022-08-15 23:55:41,412 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:467]
+2022-08-16 00:15:46,833 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:467]
+2022-08-16 00:15:50,783 INFO: errors [in /home/paul/Music/FLASK APPS/fyyur/cd0046-SQL-and-Data-Modeling-for-the-Web-master (3)/cd0046-SQL-and-Data-Modeling-for-the-Web-master/app.py:467]
