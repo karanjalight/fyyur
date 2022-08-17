@@ -27,7 +27,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:postgres@localhos
 app.config['SQLALCHEMY_TRACT_MODIFICATIONS']= False
 
 
-from models import db, Venue , Artist, Show, Genre   #this part imports the models.py file
+from models import db, Venue , Artist, Show   #this part imports the models.py file
 
 
 
@@ -231,7 +231,8 @@ def search_artists():
 @app.route('/artists/<int:artist_id>')
 def show_artist(artist_id):
   # shows the artist page with the given artist_id
-  # TODO: replace with real artist data from the artist table, using artist_id
+  # TODO: replace with real artist data from the artist table, using artist_i
+  # =========================================DONE=========================================
   print(artist_id)
   
   
@@ -239,10 +240,6 @@ def show_artist(artist_id):
   print(data)
   
  
-
-  
-
-  
   
   return render_template('pages/show_artist.html', artist=data)
 
@@ -276,12 +273,13 @@ def edit_artist_submission(artist_id):
   # TODO: take values from the form submitted, and update existing
   # artist record with ID <artist_id> using the new attributes
 
+
   return redirect(url_for('show_artist', artist_id=artist_id))
 
 @app.route('/venues/<int:venue_id>/edit', methods=['GET'])
 def edit_venue(venue_id):
   form = VenueForm()
-
+  
   
   venue= Venue.query.all()
   
@@ -292,6 +290,31 @@ def edit_venue(venue_id):
 def edit_venue_submission(venue_id):
   # TODO: take values from the form submitted, and update existing
   # venue record with ID <venue_id> using the new attributes
+
+  form = VenueForm(request.form)
+
+  if request.method == 'POST' and form.validate():
+   
+    venue = Venue(
+      name=form.name.data,
+      city = form.city.data,
+      state=form.state.data,
+      address=form.address.data,
+      phone=form.phone.data,
+      genre=form.genres.data,
+      facebook_link=form.facebook_link.data,
+      image_link =form.image_link.data,
+      website_link = form.website_link.data,
+      looking_for_talent = form.seeking_talent.data,
+      seeking_description = form.seeking_description.data
+
+
+      )
+
+    
+    
+    db.session.add(venue)
+    db.session.commit()
   return redirect(url_for('show_venue', venue_id=venue_id))
 
 #  Create Artist

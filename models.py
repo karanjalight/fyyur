@@ -26,8 +26,7 @@ class Venue(db.Model):
     seeking_description = db.Column(db.String(300))
 
     shows = db.relationship('Show', backref = 'venue', lazy=True, cascade="all, delete") #this is the relationship address to the shows module
-    #genres = db.relationship('Genre', backref = 'venue', lazy=True, cascade="all, delete") #this is the relationship address to the Genre module
-
+    
 
     def __repr__(self):
       return f'<Venues {self.id} {self.name}>'
@@ -49,8 +48,7 @@ class Artist(db.Model):
     seeking_description = db.Column(db.String(300))
     
     shows = db.relationship('Show', backref = 'artist', lazy=True, cascade="all, delete") #this is the relationship address to the shows module
-    genres = db.relationship('Genre', backref = 'artist', lazy=True, cascade="all, delete" ) #this is the relationship address to the Genre module
-
+    
     def __repr__(self):
       return f'<Artists {self.id} {self.name}>'
 
@@ -69,17 +67,7 @@ class Show(db.Model):
 
 
 #----according to the list entry we have to entre a new table for the multiple genres----------
-
-class Genre(db.Model):
-   __tablename__ = 'genre'
-
-   
-   genre =  db.Column(db.String(200))
-   #venues_id = db.Column(db.Integer, db.ForeignKey('venue.id'))  
-   artist_id = db.Column(db.Integer,  db.ForeignKey('artist.id'), primary_key=True)  #this creates a foreign key with the venues table
-   def __repr__(self):
-
-    return f'<genre {self.id } {self.genre} >' 
+ 
 
 
 
